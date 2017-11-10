@@ -13,7 +13,7 @@ One hypothesis is that if a joint controller is stiff, it will produce reliable 
 whereas if it is very loose, there will be more variation in repeated movements.
 
 ## Datasets
-The dataset is composed of CSV files available in the folder: <a href="https://github.com/anuparna/Gaussian_Process/tree/master/data">data</a>
+The dataset is composed of CSV files available in the folder: <a href="https://github.com/anuparna/Gaussian_Process/tree/master/data">data</a>.
 The data files have five repeated movements of a subject tracing a square target.
 As the subject does this, the posture changes reflect the fact that different muscles are being used for different tracing segments.
 The dataset has 60 separate movement files, for 12 different subjects across 5 traces with each subject.
