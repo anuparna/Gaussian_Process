@@ -22,4 +22,18 @@ Each CSV file has a marker position along 3 different dimensions - X, Y and Z. T
 The scale is in video frames at 1/60 second per frame.
 
 ## Documentation
-Further documentation of this process could be found <a href="https://github.com/anuparna/Gaussian_Process/blob/master/doc/Gaussian%20Processes.pdf">here</a>.
+The code execution begins from main.py.
+The extraction of the sample points for marker 1 on X-axis is done in extractData.py.
+The experiment was done on these points.
+
+The below plot shows samples from marker 1 on X-axis across all 5 traces of all 12 subjects.
+The black dotted line predicts the average predict across all predictions of Gaussian Process.
+<br/>
+<p style="text-align:center" align="center">
+<img src="https://raw.githubusercontent.com/anuparna/Gaussian_Process/master/doc/images/allPoints.png" width="450" height="300px" align="center">
+</p>
+<br/>
+
+
+Further documentation of this process could be found 
+<a href="https://raw.githubusercontent.com/anuparna/Gaussian_Process/master/doc/Gaussian%20Processes.pdf">here</a>.
