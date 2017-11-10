@@ -30,7 +30,7 @@ The below plot shows samples from marker 1 on X-axis across all 5 traces of all 
 The black dotted line predicts the average predict across all predictions of Gaussian Process.
 <br/>
 <p style="text-align:center" align="center">
-<img src="https://raw.githubusercontent.com/anuparna/Gaussian_Process/master/doc/images/allPoints.png" width="450" height="300px" align="center">
+<img src="https://raw.githubusercontent.com/anuparna/Gaussian_Process/master/doc/images/allPoints.png" width="550" height="350px" align="center">
 </p>
 <br/>
 
