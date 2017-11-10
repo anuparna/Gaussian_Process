@@ -1,7 +1,11 @@
 # Gaussian_Process
 Gaussian Process to estimate movement of human subjects using markers placed on human body.
 A motion capture suit allows the recording of human movement position data.
-![Image of a subject with markers used for tracing movement.](https://github.com/anuparna/Gaussian_Process/blob/master/doc/images/motion_capture.PNG "Image of a subject with markers used for tracing movement." {width=40px height=400px})
+<br/>
+<p style="text-align:center" align="center">
+<img src="https://github.com/anuparna/Gaussian_Process/blob/master/doc/images/motion_capture.PNG" width="250" height="300px" align="center">
+</p>
+<br/><br/>
 
 When humans contract muscles to move, they can control the stiffness of the movement by co-contracting opposing muscles. 
 It could be very informative if this stiffness could be measured.
