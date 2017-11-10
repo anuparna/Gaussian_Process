@@ -1,4 +1,4 @@
-# Gaussian_Process
+# Gaussian Process Regression to estimate human movement
 This exercise implements <i>Gaussian Process</i> to estimate movement of human subjects using markers placed on human body.
 A motion capture suit allows the recording of human movement position data.
 <br/>
