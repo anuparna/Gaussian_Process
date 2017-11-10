@@ -3,7 +3,7 @@ This exercise implements <i>Gaussian Process</i> to estimate movement of human s
 A motion capture suit allows the recording of human movement position data.
 <br/>
 <p style="text-align:center" align="center">
-<img src="https://github.com/anuparna/Gaussian_Process/blob/master/doc/images/motionCapture.png" width="250" height="300px" align="center">
+<img src="https://raw.githubusercontent.com/anuparna/Gaussian_Process/master/doc/images/motionCapture.png" width="250" height="300px" align="center">
 </p>
 <br/>
 When humans contract muscles to move, they can control the stiffness of the movement by co-contracting opposing muscles. 
