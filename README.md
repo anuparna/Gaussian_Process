@@ -12,6 +12,10 @@ It could be very informative if this stiffness could be measured.
 One hypothesis is that if a joint controller is stiff, it will produce reliable repeated movements, 
 whereas if it is very loose, there will be more variation in repeated movements.
 
-The data files have five repeated movements of a sibject tracing a square target.
+## Datasets
+The dataset is composed of CSV files available in the folder: <a href="https://github.com/anuparna/Gaussian_Process/tree/master/data">data</a>
+The data files have five repeated movements of a subject tracing a square target.
 As the subject does this, the posture changes reflect the fact that different muscles are being used for different tracing segments.
 The dataset has 60 separate movement files, for 12 different subjects across 5 traces with each subject.
+
+Further documentation of this process could be found <a href="https://github.com/anuparna/Gaussian_Process/blob/master/doc/Gaussian%20Processes.pdf">here</a>.
