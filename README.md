@@ -7,7 +7,7 @@ A motion capture suit allows the recording of human movement position data.
 </p>
 <br/>
 When humans contract muscles to move, they can control the stiffness of the movement by co-contracting opposing muscles. 
-It could be very informative if this stiffness could be measured.<br/><br/>
+It could be very informative if this stiffness could be measured.<br/>
 
 One hypothesis is that if a joint controller is stiff, it will produce reliable repeated movements, 
 whereas if it is very loose, there will be more variation in repeated movements.
