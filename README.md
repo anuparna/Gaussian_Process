@@ -18,4 +18,5 @@ The data files have five repeated movements of a subject tracing a square target
 As the subject does this, the posture changes reflect the fact that different muscles are being used for different tracing segments.
 The dataset has 60 separate movement files, for 12 different subjects across 5 traces with each subject.
 
+## Documentation
 Further documentation of this process could be found <a href="https://github.com/anuparna/Gaussian_Process/blob/master/doc/Gaussian%20Processes.pdf">here</a>.
